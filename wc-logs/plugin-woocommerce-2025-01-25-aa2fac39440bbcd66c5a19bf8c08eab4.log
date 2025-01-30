@@ -1,0 +1,9 @@
+2025-01-25T15:02:33+00:00 WARNING Empty patterns received from the PTK Pattern Store
+2025-01-25T15:49:20+00:00 INFO Payment gateway enabled: "Direct bank transfer"
+2025-01-25T15:49:22+00:00 INFO Payment gateway enabled: "Cash on delivery"
+2025-01-25T15:49:45+00:00 INFO Payment gateway enabled: "WooPayments"
+2025-01-25T16:21:15+00:00 DEBUG Attempted to determine the edit URL for order 0, however the order does not exist.
+2025-01-25T16:25:40+00:00 DEBUG Attempted to determine the edit URL for order 0, however the order does not exist.
+2025-01-25T16:33:54+00:00 DEBUG Attempted to determine the edit URL for order 0, however the order does not exist.
+2025-01-25T16:35:08+00:00 DEBUG Attempted to determine the edit URL for order 0, however the order does not exist.
+2025-01-25T16:35:52+00:00 DEBUG Attempted to determine the edit URL for order 0, however the order does not exist.
